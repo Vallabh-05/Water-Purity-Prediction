@@ -47,28 +47,6 @@ The dataset includes missing values which are handled through imputation.
 
 ---
 
-## ⚙️ How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/vallabh-05/WaterQualityPrediction.git
-   cd WaterQualityPrediction
-````
-
-2. **Install dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Launch the notebook**
-
-   ```bash
-   jupyter notebook WaterQualityPrediction.ipynb
-   ```
-
----
-
 ## ✅ Model Evaluation
 
 * Accuracy and performance metrics are used to compare models
