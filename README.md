@@ -64,6 +64,12 @@ The dataset includes missing values which are handled through imputation.
 
 ---
 
+📚 License
+
+This project is open-source under the MIT License.
+
+---
+
 ## 🙏 Acknowledgements
 
 * Dataset: Internal source (`WaterPrurity.csv`)
