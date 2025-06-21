@@ -73,13 +73,12 @@ This project is open-source under the MIT License.
 * Dataset: Internal source (`WaterPrurity.csv`)
 * Tools: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `jupyter`
 
-```
+
 
 ---
 
 ### 📄 `requirements.txt` (copy and paste this into `requirements.txt`):
 
-```
 
 pandas
 numpy
@@ -88,7 +87,7 @@ seaborn
 scikit-learn
 jupyter
 
-```
+
 
 ---
 
