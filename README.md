@@ -9,10 +9,10 @@ This project aims to predict whether water is **potable (safe to drink)** using 
 ```
 
 📦WaterQualityPrediction/
-├── WaterQualityPrediction.ipynb   # Main Jupyter Notebook
-├── WaterPrurity.csv               # Dataset used for training/testing
-├── requirements.txt               # Python dependencies
-└── README.md                      # Project documentation
+├── README.md                       # Project documentation
+├── WaterPrurity.csv                # Dataset used for training/testing
+├── WaterQualityPrediction.ipynb    # Main Jupyter Notebook
+
 
 ````
 
