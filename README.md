@@ -76,18 +76,3 @@ This project is open-source under the MIT License.
 
 
 ---
-
-### 📄 `requirements.txt` (copy and paste this into `requirements.txt`):
-
-
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-jupyter
-
-
-
----
-
