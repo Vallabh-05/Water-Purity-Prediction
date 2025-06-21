@@ -60,11 +60,7 @@ The dataset includes missing values which are handled through imputation.
 * Additional feature engineering
 * Deployment as a web app using Flask or Streamlit
 
----
 
-## 📚 License
-
-This project is open-source under the MIT License.
 
 ---
 
